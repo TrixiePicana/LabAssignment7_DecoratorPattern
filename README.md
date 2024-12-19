@@ -11,4 +11,12 @@ The UpSave account offers the highest interest rate of 4.0%.
 Benefits include the "Standard Savings Account" plus "with Insurance".
 
 
-Develop a decorator pattern approach that will implement the given UML diagram:
+Develop a decorator pattern approach that will implement the given UML diagram: <b2>
+# Project Title
+
+## UML Diagram
+
+![Car Decorator Pattern UML Diagram](https://github.com/username/repository-name/blob/main/path/to/uml-diagram.png)
+
+
+
