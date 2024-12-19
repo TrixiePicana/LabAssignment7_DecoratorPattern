@@ -1,4 +1,4 @@
-## Decorator Pattern
+<h2>Decorator Pattern</h2
 CIMB is a digital bank that offers GSave and UpSave savings accounts.   As with a typical Savings Account, it contains accountNumber, accountName, and a balance for that account.
 
 The typical savings account offers an interest rate of 1%.
@@ -15,7 +15,7 @@ Develop a decorator pattern approach that will implement the given UML diagram: 
 
 ## UML Diagram
 
-![UML Diagram](https://github.com/TrixiePicana/LabAssignment7_DecoratorPattern/blob/main/UML%20Diagram%20Decorator%20Pattern.png?raw=true)
+![UML Diagram](https://github.com/TrixiePicana/LabAssignment7_DecoratorPattern/blob/main/UML%20Diagram%20Decorator%20pattern%20.png?raw=true)
 
 
 
