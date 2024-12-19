@@ -12,4 +12,4 @@ Benefits include the "Standard Savings Account" plus "with Insurance".
 
 
 Develop a decorator pattern approach that will implement the given UML diagram:
-![UML Diagram](URL_of_the_uploaded_image)
+![UML Diagram]()
